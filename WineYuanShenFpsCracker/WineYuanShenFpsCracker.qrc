@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/WineYuanShenFpsCracker"/>
+  <qresource prefix="/">
+    <file>icons/256x256.ico</file>
+  </qresource>
+</RCC>
