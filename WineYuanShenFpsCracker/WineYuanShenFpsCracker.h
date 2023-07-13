@@ -2,12 +2,16 @@
 
 #include <QtWidgets/QMainWindow>
 #include "ui_WineYuanShenFpsCracker.h"
+
 #include <stdint.h>
 #include <process.h>
-#include <qmessagebox.h>
 #include <Windows.h>
-#include <cstdlib>
 #include <TlHelp32.h>
+#include <Psapi.h>
+#include <stdio.h>
+#include <stdlib.h>
+
+#include <qmessagebox.h>
 #include <qsystemtrayicon.h>
 #include <qstyle.h>
 #include <qmenu.h>

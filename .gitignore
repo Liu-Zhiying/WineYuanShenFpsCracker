@@ -1,0 +1,10 @@
+
+# blocking Visual Studio auto generating and binary files.
+
+.vs/
+x64/
+Debug/
+Release/
+*/x64
+*/Debug
+*/Release
